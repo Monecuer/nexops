@@ -53,3 +53,4 @@ public/hot
 storage/dotenv-editor
 .cloud
 ns
+-e "/vendor\n/node_modules\n.env"  
