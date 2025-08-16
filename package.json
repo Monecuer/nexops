@@ -20,7 +20,7 @@
     "sass": "^1.83.4",
     "tailwindcss": "^4.1.7",
     "vite": "^4.5.14",
-    "vite-plugin-mkcert": "^1.17.5"
+    "vite-plugin-mkcert": "^1.17.8"
   },
   "name": "nexopos",
   "dependencies": {
